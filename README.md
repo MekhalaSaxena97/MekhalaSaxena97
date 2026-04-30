@@ -4,7 +4,8 @@ I'm a data analyst with a thing for making sense of information that doesn't wan
 I spent the last few years in London working at the intersection of AI data operations and business intelligence. Before that, I worked remotely as a research analyst covering alternative investment markets. My MSc is in Business Analytics and Big Data from the University of Liverpool, where my dissertation — Predictive Maintenance Strategies for Quality Control in the Automotive Industry using Big Data Analytics — earned a Distinction. It was the project that made me realise how much I enjoy analysis that has a tangible, real-world consequence.
 
 
-What I actually do
+What I actually do: 
+
 Data Quality & Ops — I've managed end-to-end QA across 10+ multilingual AI projects, built audit frameworks, and cut delivery errors by 36%. The unglamorous work that makes the glamorous AI work possible.
 BI & Reporting — Power BI dashboards that people actually open. Advanced Excel that doesn't make your eyes bleed. SQL queries that do what they're supposed to do.
 Team Leadership — I've coordinated teams of 60+ across 5+ languages and time zones. Data quality at scale is as much a people problem as a technical one.
