@@ -19,7 +19,7 @@ Sustainability isn’t a buzzword for me; it’s a space where data has tangible
     An end-to-end analytical framework focused on process optimization, metrics management, and scaling data workflows across multi-lingual team environments. 
 
 *   **[Agile BA Sprint Showcase](https://github.com/MekhalaSaxena97/agile-ba-sprint-showcase)**  
-    *(In Progress)* An enterprise-grade BA portfolio modeling a high-friction identity verification (KYC/Wwft) journey for a Dutch digital bank. Features data-driven problem sizing (€2.1M revenue risk), fishbone root-cause analysis, side-by-side BPMN 2.0 process optimization maps, and a sprint-ready 40 SP Jira backlog.
+   An enterprise-grade BA portfolio modeling a high-friction identity verification (KYC/Wwft) journey for a Dutch digital bank. Features data-driven problem sizing (€2.1M revenue risk), fishbone root-cause analysis, side-by-side BPMN 2.0 process optimization maps, and a sprint-ready 40 SP Jira backlog.
 
 *   **[ESG Data Quality Audit](https://github.com/MekhalaSaxena97/esg-data-audit)**  
     *(In Progress)* A comprehensive pipeline auditing corporate compliance metrics against EU sustainability reporting frameworks (CSRD) to identify data gaps and systemic ingestion errors.
