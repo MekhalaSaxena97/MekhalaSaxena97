@@ -27,7 +27,9 @@ Sustainability isn’t a buzzword for me; it’s a space where data has tangible
 ---
 
 ## 🛠️ Tech Stack & Focus Areas
-*   **Languages & Core:** Python · SQL · Advanced Excel · Data Cleaning · QA Frameworks
+*   **Agile, Product & BA Tools:** Jira Software · Confluence · draw.io · BPMN 2.0 Process Modeling · RACI Governance Mapping
+*   **Requirements Engineering:** Behavior-Driven Development (BDD / Gherkin Notation) · MoSCoW Prioritization · User Stories & Acceptance Criteria
+*   **Languages & Core:** Python · SQL · Advanced Excel · Data Cleaning · QA Frameworks · Root-Cause Analysis (5 Whys / Fishbone Diagrams)
 *   **BI & Visualization:** Power BI · Tableau · Google Workspace · Microsoft 365
 *   **Currently Exploring:** CSRD & EU ESG reporting frameworks · PL-300 Certification Prep
 
