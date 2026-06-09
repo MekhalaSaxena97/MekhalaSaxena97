@@ -1,15 +1,15 @@
-## Mekhala Saxena — Business Analyst | Data Analyst
+## Mekhala Saxena - Business Analyst | Data Analyst
 **4+ years experience** · **MSc Business Analytics (Distinction)** · Power BI · SQL · Python · Relocating to Europe
 
 ---
 
 ## 👋 About Me
-I'm a Data & Business Analyst who specializes in making sense of information that doesn't want to be made sense of—multilingual datasets, messy pipelines, and stakeholder opinions masquerading as requirements. 
+I'm a Data & Business Analyst who specializes in making sense of information that doesn't want to be made sense of multilingual datasets, messy pipelines, and stakeholder opinions masquerading as requirements. 
 
 My background spans leading AI data quality operations in London (managing teams of 60+ across 5 time zones) to market research and predictive analytics. I build analysis with a point: numbers need a narrative, and I write both.
 
 ## 🌿 Focus: Data & Sustainability
-Sustainability isn’t a buzzword for me; it’s a space where data has tangible, long-term consequences. Moving forward, I am dedicating my portfolio to projects at the intersection of data and sustainability—specifically focusing on ESG metrics, environmental datasets, and supply chain impact modeling.
+Sustainability isn’t a buzzword for me; it’s a space where data has tangible, long-term consequences. Moving forward, I am dedicating my portfolio to projects at the intersection of data and sustainability specifically focusing on ESG metrics, environmental datasets, and supply chain impact modeling.
 
 ---
 
